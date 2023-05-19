@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in London, UK<br>✉️  You can contact me at m.recioGrom@gmail.com<br>🧠  Proficient in React, Next.js, Express,Koa, MongoDB<br>📚✈️  I love books and traveling!<br>
+🌍  I'm based in London, UK<br>✉️  You can contact me at m.reciogrom@gmail.com<br>🧠  Proficient in React, Next.js, Express,Koa, MongoDB<br>📚✈️  I love books and traveling!<br>
 
 
 ## 🌐 Socials:
